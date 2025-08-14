@@ -1,4 +1,4 @@
-The Jenson USA Sales Analysis projThe Jenson USA Sales Analysis project leverages the BikeStores sample database to generate actionable business insights across sales, inventory, and customer behavior. Using SQL, multiple datasets—covering products, categories, brands, stores, staff, customers, orders, and stock—were joined and analyzed to answer key business questions.
+The Jenson USA Sales Analysis project leverages the BikeStores sample database to generate actionable business insights across sales, inventory, and customer behavior. Using SQL, multiple datasets—covering products, categories, brands, stores, staff, customers, orders, and stock—were joined and analyzed to answer key business questions.
 
 The analysis identified the total products sold per store, cumulative product sales over time, highest-selling and highest-priced products per category, and top-performing stores. It also pinpointed high-value customers, unsold products, and top staff contributors, while highlighting purchasing patterns across different customer segments.
 
